@@ -1,0 +1,8 @@
+November 16 2016
+
+What is a string?  A string is a sequence of characters either as a variable or literal constants.
+What is an integer? An integer is a data type that represents a finite value.
+What is a method? A procedure associated with an object and message for example clicking the square x(object) button on our browser 
+sending a close message(message) to the computer. This is method based on wiki
+What is a method on java? A method on java is for example the System.out.println()method that executes several statements in order
+to display a message on the console.
